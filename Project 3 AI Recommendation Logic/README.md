@@ -1,4 +1,4 @@
-**DecodеLabs — Project 3: AI Recommendation Logic**
+**DecodеLabs — Project 3:  AI Recommendation Logic**
 # 🤖 Tech Stack Recommender
 
 An AI-powered recommendation system that recommends suitable technology career roles based on a user's skills and interests.
