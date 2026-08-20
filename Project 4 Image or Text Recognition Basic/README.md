@@ -113,5 +113,3 @@ Object detection is not included because it belongs to the alternative project p
 **DecodeLabs Internship — Project 4**
 
 **Project:** Image or Text Recognition (Basic)
-
-````
