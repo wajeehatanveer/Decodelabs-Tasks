@@ -23,3 +23,11 @@ A Machine Learning classification project using the **Iris Dataset** and the **K
 ### 🧠 Project 3 — AI Recommendation Logic
 An AI-powered recommendation system that matches user skills and interests with suitable technology career roles using **TF-IDF and Cosine Similarity**.
 
+---
+
+### 🔍 Project 4 — Image or Text Recognition (Basic)
+
+A basic Optical Character Recognition (OCR) application that extracts text from images using **OpenCV and Tesseract OCR**, with image preprocessing, confidence scoring, and an 80% confidence filter.
+
+**Technologies:** Python, OpenCV, NumPy, Pytesseract, Tesseract OCR, Streamlit
+
